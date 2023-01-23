@@ -4,8 +4,8 @@
 -> In addition, the project includes additional functionality that allows the user to split the account between several payers.
 
 # Demo
-
-
+![mobile](https://user-images.githubusercontent.com/122818137/214058608-5691c552-3f91-4c20-9c2f-635f90d891e8.png)
+![1](https://user-images.githubusercontent.com/122818137/214058629-393f7b47-8618-436f-9df4-b99e65cd478d.png)
 ## This project was built with the following technologies:
 
 -> HTML

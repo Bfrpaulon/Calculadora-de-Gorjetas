@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    margin: 2px auto;
+}
+
+html, body {
+    width: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-height: 100%;
+    background-image: url(/assets/image/bg.jpg);
+    background-size: cover;
+    color: white;
+}
+
+footer
+{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
